@@ -1,0 +1,8 @@
+AI-Chatbot/
+│
+├── app.py
+├── chatbot.db
+├── templates/
+│   └── index.html
+└── static/
+    └── style.css
